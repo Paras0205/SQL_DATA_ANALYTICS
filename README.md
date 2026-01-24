@@ -14,7 +14,7 @@ level-wise comment sections for easy navigation.
 - Aggregations & GROUP BY
 - JOINs (Inner, Left)
 - Subqueries & CTEs
-- Window Functions (RANK, DENSE_RANK, ROW_NUMBER, LAG)
+- Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
 - Date & Time Analysis
 
 ## 🛠 Tools & Technologies
