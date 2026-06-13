@@ -1,31 +1,110 @@
-# SQL Data Analysis
+# 📊 SQL Data Analytics
 
-This repository contains my end-to-end SQL practice for Data Analysis.
-It covers core to advanced SQL concepts with a focus on real-world,
-interview-ready analytical queries.
+Welcome to my SQL Data Analytics repository!
 
-All queries are organized inside a single SQL file using clear,
-level-wise comment sections for easy navigation.
+This repository documents my journey of learning SQL for Data Analytics, from foundational concepts to advanced analytical techniques used in real-world business scenarios.
 
-## 📌 Topics Covered
+The goal of this repository is not only to practice SQL queries but also to develop problem-solving skills, analytical thinking, and business-oriented data analysis capabilities required for Data Analyst roles.
 
-- Basic SELECT, WHERE, ORDER BY, LIMIT
-- Filtering & Conditional Logic
-- Aggregations & GROUP BY
-- JOINs (Inner, Left)
-- Subqueries & CTEs
-- Window Functions (RANK, DENSE_RANK, ROW_NUMBER)
-- Date & Time Analysis
+---
 
-## 🎯 Objective
+## 🎯 Objectives
 
-The goal of this repository is to:
-- Strengthen SQL foundations for Data Analyst roles
-- Practice solving real business questions using SQL
-- Build a reference-ready and interview-ready SQL portfolio
+* Build a strong foundation in SQL
+* Master advanced querying techniques
+* Solve real-world business problems using data
+* Prepare for Data Analyst interviews
+* Document learning progress consistently
+* Create a structured SQL portfolio
 
-## 📜 License
+---
 
-This project is licensed under the MIT License and is intended for
-learning and educational purposes.
+## 📚 Topics Covered
 
+### 1️⃣ SQL Fundamentals
+
+* SELECT Statements
+* WHERE Clause
+* ORDER BY
+* LIMIT
+* DISTINCT
+* Aliases
+
+### 2️⃣ Filtering & Aggregation
+
+* COUNT()
+* SUM()
+* AVG()
+* MIN()
+* MAX()
+* GROUP BY
+* HAVING
+
+### 3️⃣ Joins
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN
+* SELF JOIN
+* CROSS JOIN
+
+### 4️⃣ Subqueries
+
+* Single Row Subqueries
+* Multiple Row Subqueries
+* Correlated Subqueries
+* Nested Queries
+
+### 5️⃣ Common Table Expressions (CTEs)
+
+* Basic CTEs
+* Multiple CTEs
+* Recursive CTEs
+
+### 6️⃣ Window Functions
+
+* ROW_NUMBER()
+* RANK()
+* DENSE_RANK()
+* NTILE()
+* LAG()
+* LEAD()
+* FIRST_VALUE()
+* LAST_VALUE()
+
+### 7️⃣ Advanced SQL
+
+* Query Optimization
+* Indexing Concepts
+* Execution Plans
+* Performance Tuning
+* Views
+* Stored Procedures
+
+### 8️⃣ Business Case Studies
+
+* Customer Analysis
+* Sales Analysis
+* Revenue Analysis
+* Retention Analysis
+* Cohort Analysis
+* Funnel Analysis
+* Churn Analysis
+
+---
+
+## 💡 Skills Developed
+
+* Data Extraction
+* Data Cleaning
+* Data Transformation
+* Data Aggregation
+* Analytical Thinking
+* Business Problem Solving
+* Query Optimization
+* Reporting & Insights Generation
+  
+---
+
+⭐ If you find this repository helpful, feel free to explore the queries and follow my learning journey!
